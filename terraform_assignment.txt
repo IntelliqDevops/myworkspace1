@@ -1,0 +1,14 @@
+1 You are working on a project where you need to create an AWS EC2 instance using Terraform. After your initial terraform apply, the instance is created successfully.
+Later, your manager asks you to add a tag Environment = Production to that EC2 instance.
+What steps would you take in Terraform to add the new tag without recreating the existing EC2 instance?
+Will Terraform recreate the instance when you add a new tag? Why or why not?
+
+
+2 You want to create identical infrastructure (like VPC, subnets, and EC2) in two different AWS regions using Terraform, but you don't want to copy-paste code.
+How can you structure your Terraform code to easily deploy to multiple regions?
+What Terraform feature can help you avoid duplication?
+
+email: selenium.saikrishna@gmail.com
+
+
+

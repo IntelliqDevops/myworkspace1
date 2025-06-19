@@ -1,0 +1,17 @@
+Jenkins Basics Assignment
+================================
+1 What is Jenkins and why is it used in CI/CD pipelines?
+
+2 What does CI/CD mean and how does Jenkins fit into it?
+
+3 What are the common stages in a Jenkins CI/CD pipeline?
+
+4 What is the initial admin password file path for Jenkins?
+
+5 Where is Jenkins installed and what is the default port?
+
+(Plz send the solutions to intelliqittrainings@gmail.com	)
+
+
+
+

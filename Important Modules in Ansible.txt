@@ -1,0 +1,63 @@
+Important Modules in Ansible
+===================================
+1 command
+2 shell
+3 ping
+4 user
+5 file
+6 copy
+7 fetch
+8 apt
+9 yum
+10 service
+11 uri
+12 get_url
+13 git
+14 replace
+15 stat
+16 debug
+17 include_tasks
+18 pause
+19 docker_container
+20 docker_image
+
+
+Syntax of Adhoc commands
+================================
+ansible all/group_name/ipaddress -i path_of_inventory -m module_name -a '       '
+
+
+1 command (Linux commands)
+2 shell (Linux,shell scripts)
+3 user (name,password,uid,comment,home,shell,state)
+4 file (name,state,mode,owner,group)
+5 copy (src,dest,content,owner,group,mode)
+6 apt (name,state,update_cache) 
+7 service (name,state)
+8 uri (url,status_code)
+9 get_url (url,dest)
+10 replace (regexp,replace,path)
+11 git (repo,dest)
+12 fetch (src,dest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
